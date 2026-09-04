@@ -15,6 +15,8 @@ The project that I have done here documents my home networking environment throu
 - Create a device inventory that identifies each system by device name, platform, connection type, and operational role.
 - Demonstrate how standardized infrastructure documentation can support troubleshooting, onboarding, knowledge transfer, and future network changes.
 
+Note: Device names shown in this repository use a sanitized version of the naming convention used in my home lab.
+
 **Home Lab Topology**
 
 - Documents the physical and virtual structure of the home lab environment.
@@ -36,7 +38,7 @@ The project that I have done here documents my home networking environment throu
 
 - I learned how valuable topology documentation can be when trying to understand a business environment quickly and troubleshoot it more efficiently.
 - Both a topology diagram and a device inventory serve different purposes, but they work best when they are used together.
-- I understand the importance of separating physical devices from hosted virtual machines so the actual system relationships reamin clear.
+- I understand the importance of separating physical devices from hosted virtual machines so the actual system relationships remain clear.
 - Device naming standardization can improve business efficiency and make systems easier to identify during troubleshooting and documentation.
 - Network documentation needs to stay up-to-date because changes to devices, operating systems, addressing, or virtualization can quickly make an older diagram inaccurate.
 
