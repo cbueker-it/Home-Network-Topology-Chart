@@ -4,11 +4,9 @@ Home lab documentation covering physical and virtual topology, device inventory,
 
 **Introduction**
 
-Accurate network documentation is important in IT because technicians need to be able to understand an environment quickly, especially when they are troubleshooting or making changes. A topology chart gives the technician a visual way to see how the network is structured, how the devices are connected, and where physical systems and hosted virtual machines fit into the environment.
+Detailed and accurate network documentation is critically important in IT departments. Technicians need to understand the business environment quickly when onboarding, troubleshooting, or making formal changes. A physical and virtual topology chart gives a clear visual representation of how the network is structured and organized, how the devices are connected, and where the physical systems and hosted virtual machines fit into the environment. The type of chart that I have created supports technician onboarding, knowledge transfer, and procedural standardization, helping technicians reduce their reliance on memorizing procedures or depending only on tribal knowledge.
 
-Good network documentation also supports onboarding, knowledge transfer, and standardization across the IT team. When the environment is documented clearly, technicians do not have to rely only on memory or tribal knowledge. They can reference the topology and inventory, understand the systems they are supporting, and get up and running more quickly.
-
-The project that I have done here documents my home lab through a physical and virtual topology diagram and a device inventory. I show the relationships between the modem, router, Linux systems, wireless endpoints, and Windows virtual machines, while also using a standardized and sanitized naming structure. The goal is to create a clear reference that can support troubleshooting, future changes, and overall understanding of the environment.
+The project that I have done here documents my home networking environment through a physical and virtual topology diagram and a device inventory. I document and show the relationships between the modem, router, Linux systems, wireless endpoints, and the Windows virtual machines that I use to complete my labs. My objective was to create a clear reference that can support troubleshooting, future changes, and a better overall understanding of the environment.
 
 **Objectives**
 
@@ -36,11 +34,17 @@ The project that I have done here documents my home lab through a physical and v
 
 **Lessons Learned**
 
-- I learned how valuable topology documentation can be when trying to understand an environment quickly and troubleshoot it more efficiently.
+- I learned how valuable topology documentation can be when trying to understand a business environment quickly and troubleshoot it more efficiently.
 - Both a topology diagram and a device inventory serve different purposes, but they work best when they are used together.
-- I understand the importance of separating physical devices from hosted virtual machines so the actual system relationships are clear.
+- I understand the importance of separating physical devices from hosted virtual machines so the actual system relationships reamin clear.
 - Device naming standardization can improve business efficiency and make systems easier to identify during troubleshooting and documentation.
-- Network documentation needs to stay current because changes to devices, operating systems, addressing, or virtualization can quickly make an older diagram inaccurate.
+- Network documentation needs to stay up-to-date because changes to devices, operating systems, addressing, or virtualization can quickly make an older diagram inaccurate.
+
+**Summary**
+
+The objective of this project was to create clear and accurate documentation of my home networking environment through a physical and virtual topology diagram and a device inventory chart. I documented how the modem, router, Linux operating systems, wireless endpoints, and hosted Windows virtual machines relate to one another. I also show the standardized device naming, connection types, and operational roles within the environment.
+
+I have demonstrated that the objectives of this project were successfully met by creating documentation that supports troubleshooting, technician onboarding, knowledge transfer, change management, and better overall awareness of the environment. This project demonstrates the business value of keeping topology and inventory documentation accurate, organized, accessible, and up to date so technicians can understand the systems they support and work more efficiently.
 
 Navigation
 
